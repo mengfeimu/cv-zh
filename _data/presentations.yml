@@ -1,16 +1,25 @@
 intro: ""
 presentations:
+
   - paper:
     title: Agricultural water use accounting and impact assessment on the water system in China
-    authors: Mengfei Mu, Qiuhong Tang, Ximing Cai, Siao Sun, Huijuan Cui
-    conference: Aug 2016, Poster, 13th AOGS Conference, Beijing, China
-  - paper:
-    title: Agricultural water use accounting and impact assessment on the water system in China
-    authors: Mengfei Mu, Qiuhong Tang, Ximing Cai, Siao Sun, Huijuan Cui
-    conference: "Sep 2016, Oral, 9th China-Korea-Japan Graduate Student Forum, Daejeon, Korea13 \n
-    Jan 2017, Oral, 9th IPWE-ASCE, Wuhan, China"
+    authors: **Mengfei Mu**, Qiuhong Tang, Ximing Cai, Siao Sun, Huijuan Cui
+    conference: "2016.08, 第13届亚洲大洋洲地球科学会议，海报展示，北京 \n
+                2016.09, 第9届中日韩研究生论坛，口头报告（优秀奖），韩国大田 \n
+                2017.01, 第九届全球水资源与环境大会（IPWE-ASCE），中国湖北武汉"
   - paper:
     title: Deriving Area­-storage Curves of Global Reservoirs
     authors: Mengfei Mu, Qiuhong Tang, Huijuan Cui
-    conference: "Dec 2017, AGU Fall Meeting, New Orleans, United States"
+    conference: 2017.12, 2017年美国地球物理学会秋季大会，海报展示，美国新奥尔良
+
+  - paper:
+    title: A decentralized optimization model to improve reliability of thermoelectricity supply during low flow and drought events
+    authors: Mengfei Mu, Zhenxing Zhang, Ximing Cai, Qiuhong Tang
+    conference: 2018.12, 2018年美国地球物理学会秋季大会，海报展示，美国华盛顿特区
+
+  - paper:
+    title: Seasonal risk assessment of water-electricity nexus under environmental policy constraint：Reliability, Resilience, and Vulnerability
+    authors: Mengfei Mu, Zhenxing Zhang, Ximing Cai, Qiuhong Tang
+    conference: 2019.09, 2019年中美水资源安全会议，口头报告，中国北京
+
     
