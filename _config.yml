@@ -1,6 +1,6 @@
 # Site Settings
 title: 穆梦斐-中文简历
-url: 'https://mengfeimu.github.io'
+url: 'http:www.mengfeimu.com' #'https://mengfeimu.github.io'
 baseurl: '/cv-zh' #change it according to your repository name
 #about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
