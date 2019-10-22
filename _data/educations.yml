@@ -2,9 +2,22 @@
   degree: 博士， 自然地理学
   university: 中国科学院地理科学与资源研究所，中国科学院大学
   time: 2015.09 至今
-  details: ""
+  details: "主修课程：空间数据挖掘、地理信息科学与GIS、遥感科学、水文学与水资源学等"
+
+- education:
+  degree: 联合培养博士研究生
+  university: 美国伊利诺伊大学香槟分校
+  time: 2017.10 - 2019.04
+  details: "国家留学基金委资助"
+
 - education:
   degree: 本科，水利水电工程系
   university: 清华大学
   time: 2011.09 - 2015.07
+  details: "主修课程：概率论与数理统计、工程项目管理、工程力学、水工建筑学、水力学、土力学等"
+
+- education:
+  degree: 高中
+  university: 合阳中学
+  time: 2018.09 - 2011.07
   details: ""
