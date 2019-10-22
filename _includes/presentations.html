@@ -1,4 +1,4 @@
-{% assign presentations = site.data.presentations %}
+<!-- {% assign presentations = site.data.presentations %} -->
 
 {% if site.data.presentations %}
 <section class="section publications-section">
@@ -11,17 +11,17 @@
   </div><!--//intro-->
   {% endif %}
 
-   {% for publication in presentations %}
+<!--    {% for publication in presentations %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
   </div>
   {% endfor %}
-
+ -->
   
 <!-- add new items here -->  
-<!--   <div class="item">
+  <div class="item">
   	<div class="publication-title">{{ "Seasonal risk assessment of water-electricity nexus under environmental policy constraint：Reliability, Resilience, and Vulnerability" }}</div>
   	<div class="publication-authors">{{ "Mengfei Mu, Zhenxing Zhang, Ximing Cai, Qiuhong Tang" }}</div>
   	<div class="publication-conference">{{ "Sep 2019, Oral, AWRA-CAS International Specialty Conference
@@ -44,7 +44,7 @@ Water Security: New Technologies, Strategies, Policies, and Institutions, Beijin
   	<div class="publication-authors">{{ "Mengfei Mu, Qiuhong Tang, Ximing Cai, Siao Sun, Huijuan Cui" }}</div>
   	<div class="publication-conference">{{ "Sep 2016, Oral, 9th China-Korea-Japan Graduate Student Forum, Daejeon, Korea" }}</div>
     <div class="publication-conference">{{ "Jan 2017, Oral, 9th IPWE-ASCE, Wuhan, China"}}</div>
-	<div class="publication-conference">{{ "Aug 2016, Poster, 13th AOGS Conference, Beijing, China"}}</div> -->
+	<div class="publication-conference">{{ "Aug 2016, Poster, 13th AOGS Conference, Beijing, China"}}</div>
 
 </section><!--//section-->
 {% endif %}
