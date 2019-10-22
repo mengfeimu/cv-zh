@@ -1,0 +1,46 @@
+# Site Settings
+title: Mengfei Mu
+url: 'https://mengfeimu.github.io'
+baseurl: '/cv' #change it according to your repository name
+#about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Mengfei Mu
+tagline: A PhD Candidate in CAS
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I am currently a PhD candidate in Chinese Academy of Sciences (CAS). Major research interests are hydrology,
+water resources management and environmental issues. I am open to any discussion and communication related to academic research. Contact me via email
+if you need.'
+
+#sidebar links
+email: mengfeimu@foxmail.com
+#phone: 012 345 6789
+website: mengfeimu.github.io #do not add http://
+google_scholar: https://scholar.google.ch/citations?user=9w4QGdYAAAAJ
+#linkedin: alandoe
+github: mengfeimu
+#twitter: '@webjeda'
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+education_in_main: True
+
+# Tracker
+#analytics: UA-102161534-1
+google_analytics_id: UA-102161534-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

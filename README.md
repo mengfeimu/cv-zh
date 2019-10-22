@@ -1,2 +1,1 @@
-# cv-zh
-中文简历
+This theme is adapted from [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/).

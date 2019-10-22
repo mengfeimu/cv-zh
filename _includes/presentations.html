@@ -1,0 +1,40 @@
+{% if site.data.presentations %}
+<section class="section publications-section">
+
+  <h2 class="section-title"><i class="fa fa-file-text"></i>Presentations</h2>
+
+  {% if site.data.presentations.intro %}
+  <div class="intro">
+      <p>{{ site.data.presentations.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  
+<!-- add new items here -->  
+  <div class="item">
+  	<div class="publication-title">{{ "Seasonal risk assessment of water-electricity nexus under environmental policy constraint：Reliability, Resilience, and Vulnerability" }}</div>
+  	<div class="publication-authors">{{ "Mengfei Mu, Zhenxing Zhang, Ximing Cai, Qiuhong Tang" }}</div>
+  	<div class="publication-conference">{{ "Sep 2019, Oral, AWRA-CAS International Specialty Conference
+Water Security: New Technologies, Strategies, Policies, and Institutions, Beijing, China" }}</div>	
+	  
+<p>	  
+<div class="item">
+  	<div class="publication-title">{{ "A decentralized optimization model to improve reliability of thermoelectricity supply during low flow and drought events" }}</div>
+  	<div class="publication-authors">{{ "Mengfei Mu, Zhenxing Zhang, Ximing Cai, Qiuhong Tang" }}</div>
+  	<div class="publication-conference">{{ "Dec 2018, Poster, AGU Fall Meeting, Washington DC, United States" }}</div>	
+
+  <p>
+  <div class="item">
+  	<div class="publication-title">{{ "Deriving Area­-storage Curves of Global Reservoirs" }}</div>
+  	<div class="publication-authors">{{ "Mengfei Mu, Qiuhong Tang, Huijuan Cui" }}</div>
+  	<div class="publication-conference">{{ "Dec 2017, Poster, AGU Fall Meeting, New Orleans, United States" }}</div>
+  <p>	 
+  <div class="item">
+  	<div class="publication-title">{{ "Agricultural water use accounting and impact assessment on the water system in China" }}</div>
+  	<div class="publication-authors">{{ "Mengfei Mu, Qiuhong Tang, Ximing Cai, Siao Sun, Huijuan Cui" }}</div>
+  	<div class="publication-conference">{{ "Sep 2016, Oral, 9th China-Korea-Japan Graduate Student Forum, Daejeon, Korea" }}</div>
+    <div class="publication-conference">{{ "Jan 2017, Oral, 9th IPWE-ASCE, Wuhan, China"}}</div>
+	<div class="publication-conference">{{ "Aug 2016, Poster, 13th AOGS Conference, Beijing, China"}}</div>
+
+</section><!--//section-->
+{% endif %}
