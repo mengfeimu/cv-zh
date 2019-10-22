@@ -1,7 +1,7 @@
 # Site Settings
 title: Mengfei Mu
 url: 'https://mengfeimu.github.io'
-baseurl: '/cv' #change it according to your repository name
+baseurl: '/cv-zh' #change it according to your repository name
 #about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
