@@ -5,13 +5,25 @@
   details: ""
   
 - experience:
-  role: 班级文艺委员、校团委创业中心宣传策划组成员
+  role: 班级文艺委员
+  time: 2013.09-2014.7
+  company: 清华大学水利水电工程系水工11班
+  details: ""
+
+- experience:
+  role: 校团委创业中心宣传策划组核心成员
   time: 2013.09-2014.7
   company: 清华大学
   details: ""
 
 - experience:
-  role: 宣传委员
+  role: 党支部组织委员
+  time: 2013.09-2014.07
+  company: 清华大学水利水电工程系水工11党支部
+  details: ""
+
+- experience:
+  role: 党支部宣传委员
   time: 2012.09-2013.07
   company: 清华大学水利水电工程系水工11党支部
   details: ""
