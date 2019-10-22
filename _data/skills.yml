@@ -1,14 +1,17 @@
 - skill:
-  name: Python
+  name: Python编程
   level: 95%
 - skill:
-  name: Shell, AWK, sed
+  name: Shell, AWK, sed编程
   level: 70%
 - skill:
   name: Word, Excel, Powerpoint
   level: 80%
 - skill:
-  name: Matlab
+  name: ArcGIS软件操作, Google Earth Engine操作
+  level: 50%
+- skill:
+  name: Matlab编程
   level: 50%
 - skill:
   name: LaTex
