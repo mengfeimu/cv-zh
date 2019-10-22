@@ -16,7 +16,7 @@ baseurl: '/cv' #change it according to your repository name
 #Profile information
 name: 穆梦斐
 tagline: 在读博士生
-pic: 证件照.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: 证件照.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 # summary: 'I am currently a PhD candidate in Chinese Academy of Sciences (CAS). Major research interests are hydrology,
 # water resources management and environmental issues. I am open to any discussion and communication related to academic research. Contact me via email
 # if you need.'
