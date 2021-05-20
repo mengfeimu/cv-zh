@@ -15,7 +15,7 @@ baseurl: '/cv-zh' #change it according to your repository name
 
 #Profile information
 name: 穆梦斐
-tagline: 在读博士生
+tagline: 博士
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 # summary: 'I am currently a PhD candidate in Chinese Academy of Sciences (CAS). Major research interests are hydrology,
 # water resources management and environmental issues. I am open to any discussion and communication related to academic research. Contact me via email
@@ -28,7 +28,7 @@ website: mengfeimu.github.io #do not add http://
 google_scholar: https://scholar.google.ch/citations?user=9w4QGdYAAAAJ
 #linkedin: alandoe
 github: mengfeimu
-douban: 69925681
+#douban: 69925681
 wangyiyun: 596389080
 #twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
